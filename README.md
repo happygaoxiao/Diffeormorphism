@@ -15,7 +15,7 @@ See for our paper: https://ieeexplore.ieee.org/document/9387124
     `conda activate env_name`
  - Install requirements in `env_name`.
   
-   `conda install numpy scipy numba matplotlib`
+   `conda install numpy scipy numba matplotlib tensorflow=1.15`
 
    `conda install -c conda-forge quaternion notebook`
 
